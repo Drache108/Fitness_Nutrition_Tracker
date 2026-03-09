@@ -35,10 +35,7 @@ This project is structured with a clear separation of concerns, paving the way f
 
   ##Future Roadmap
 
-  [ ] Implement File I/O (fstream) for persistent data storage using JSON.
-
-  [ ] Build an interactive Command Line Interface (CLI) menu system.
-
-  [ ] Wrap the C++ engine in a lightweight web framework (e.g., Crow) to serve as a backend API.
-
-  [ ] Develop a frontend web interface using HTML, CSS, and JavaScript.
+   1. Implement File I/O (fstream) for persistent data storage using JSON.
+   2. Build an interactive Command Line Interface (CLI) menu system.
+   3. Wrap the C++ engine in a lightweight web framework (e.g., Crow) to serve as a backend API.
+   4. Develop a frontend web interface using HTML, CSS, and JavaScript.
